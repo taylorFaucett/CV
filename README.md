@@ -1,7 +1,7 @@
 # Taylor Faucett
 _Physicist & Data Scientist_
 
-[email](mailto:tfaucett@uci.edu) / [LinkedIn](http://www.linkedin.com/in/taylorfaucett) / [GitHub](https://www.github.com/taylorFaucett)
+[Email](mailto:tfaucett@uci.edu) / [LinkedIn](http://www.linkedin.com/in/taylorfaucett) / [GitHub](https://www.github.com/taylorFaucett)
 
 ## 📖 Education
 - 2015-2021: **PhD in Physics**, University of California, Irvine    
@@ -39,6 +39,13 @@ _Physicist & Data Scientist_
 | 🔴🔴🔴🔴🔴 | Python, Jupyter, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, Git  |
 | 🔴🔴🔴⭕️⭕️ | Tensorflow, PyTorch, NLTK, ggplot2, Docker|
 | 🔴🔴⭕️⭕️⭕️ | Java, Julia, R, Matlab, AutoCAD, Tableau  |
+
+## 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇪🇸 Languages
+| Language Level  |   |
+|---|---|
+| 🔴🔴🔴🔴🔴 | English (Native)  |
+| 🔴🔴🔴⭕️⭕️ | French|
+| 🔴🔴⭕️⭕️⭕️ | Spanish |
 
 ## 🗺 Additional Projects
 __LHC Olympics__: Computer vision methods applied to anomalous signatures in simulated particle detector data.
