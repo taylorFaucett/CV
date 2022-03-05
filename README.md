@@ -34,18 +34,17 @@ _Physicist & Data Scientist_
 4. Taylor FAUCETT, Jesse THALER et Daniel WHITESON. “Mapping machine-learned physics into a human-readable space”. In : Physical Review D (2021).  [(link)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.036020)
 
 ## 🧑🏼‍💻 Skills & Programming
-| Skill Level  | Language/Tool  |
-|---|---|
-| 🔴🔴🔴🔴🔴 | Python, Jupyter, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, Git  |
-| 🔴🔴🔴⭕️⭕️ | Tensorflow, PyTorch, NLTK, ggplot2, Docker|
-| 🔴🔴⭕️⭕️⭕️ | Java, Julia, R, Matlab, AutoCAD, Tableau  |
+Skill Level / Language/Tool
+
+- 🔴🔴🔴🔴🔴  / Python, Jupyter, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, Git
+- 🔴🔴🔴⭕️⭕️ / Tensorflow, PyTorch, NLTK, ggplot2, Docker
+- 🔴🔴⭕️⭕️⭕️ / Java, Julia, R, Matlab, AutoCAD, Tableau
 
 ## 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇪🇸 Languages
-| Language Level  |   |
-|---|---|
-| 🔴🔴🔴🔴🔴 | English (Native)  |
-| 🔴🔴🔴⭕️⭕️ | French|
-| 🔴🔴⭕️⭕️⭕️ | Spanish |
+
+- 🔴🔴🔴🔴🔴 / English (Native)
+- 🔴🔴🔴⭕️⭕️ / French
+- 🔴🔴⭕️⭕️⭕️ / Spanish
 
 ## 🗺 Additional Projects
 __LHC Olympics__: Computer vision methods applied to anomalous signatures in simulated particle detector data.
