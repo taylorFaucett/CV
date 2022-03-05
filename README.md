@@ -47,17 +47,14 @@ Skill Level / Language/Tool
 - 🔴🔴⭕️⭕️⭕️ / Spanish
 
 ## 🗺 Additional Projects
-__LHC Olympics__: Computer vision methods applied to anomalous signatures in simulated particle detector data.
-- https://www.github.com/taylorFaucett/lhco-ml
-- https://arxiv.org/abs/2101.08320
+__LHC Olympics__: Computer vision methods applied to anomalous signatures in simulated particle detector data. - [github](https://www.github.com/taylorFaucett/lhco-ml) - [paper](https://arxiv.org/abs/2101.08320)
 
-__Average Decision Ordering__: Python package for computing the decision surface similarity of binary classifiers
-- https://www.github.com/taylorFaucett/average-decision-ordering
+__Average Decision Ordering__: Python package for computing the decision surface similarity of binary classifiers - [github](https://www.github.com/taylorFaucett/average-decision-ordering)
 
 ## 🏆 Awards & Honors
-**(2020 - 2021)** - _Chateaubriand Fellowship_ [(link)](https://www.chateaubriand-fellowship.org/)
+**(2020 - 2021)** - _Chateaubriand Fellowship_ - [(link)](https://www.chateaubriand-fellowship.org/)
 
-**(2016 - 2019)** - _NSF Research Grant: NRT-DESE : Team Science for Integrative Graduate Training in Data Science and Physical Science (Grant Number : 1633631)_ [(link)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1633631)
+**(2016 - 2019)** - _NSF Research Grant: NRT-DESE : Team Science for Integrative Graduate Training in Data Science and Physical Science (Grant Number : 1633631)_ - [(link)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1633631)
 
 
 
